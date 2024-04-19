@@ -1,0 +1,22 @@
+use_frameworks!
+
+target 'YOUR_TARGET_NAME' do
+    pod 'CoinbaseWalletSDK', '1.0.3'
+endimport PackageDescription
+
+let package = Package(
+    name: "YOUR_PROJECT_NAME",
+    dependencies: [
+        .package(url: "https://github.com/MobileWalletProtocol/wallet-mobile-sdk.git", from: "1.0.3"),
+    ]
+)swift buildREADME.md
+gh repo clone Sarasilva554/Sa# sara554-beep
+Español
+import PackageDescription
+
+let package = Package(
+    name: "YOUR_PROJECT_NAME",
+    dependencies: [
+        .package(url: "https://github.com/MobileWalletProtocol/wallet-mobile-sdk.git", from: "1.0.3"),
+    ]
+)
