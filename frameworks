@@ -1,4 +1,4 @@
-frameworks!
+frameworks
 
 target 'YOUR_TARGET_NAME' do
     pod 'CoinbaseWalletSDK', '1.0.3'
